@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jetty": "^0.2.1",
+    "minimist": "^1.2.0",
+    "request": "^2.85.0",
+    "tracer": "^0.8.12"
+  }
+}
